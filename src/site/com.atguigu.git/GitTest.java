@@ -9,5 +9,6 @@ public class GitTest {
         System.out.pringln("Hello Git3");
         System.out.pringln("Hello Git4");
         System.out.pringln("master test!");
+        System.out.pringln("hot-fix! test");
     }
 }
