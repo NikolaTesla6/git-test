@@ -5,5 +5,6 @@ package com.atguigu.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.pringln("Hello Git");
+        System.out.pringln("Hello Git2");
     }
 }
